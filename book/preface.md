@@ -1,12 +1,12 @@
 Preface
 =======
 
-Yii is a high-performance PHP framework designed from the ground up to develop modern web applications and APIs that can run in a multi-device environment.
+Yii adalah PHP framework berkinerja tinggi yang dirancang dari bawah ke atas untuk mengembangkan aplikasi web modern dan API yang dapat berjalan di lingkungan multi-perangkat.
 
-Yii comes with rich set of features including MVC, ActiveRecord, I18N/L10N, caching, authentication and role-based access control, code generation, testing, and REST based API framework. Together with a comprehensive set of documentation and a enthusiastic user community Yii can reduce your development time significantly compared with other frameworks.
+Yii hadir dengan beragam fitur termasuk MVC, ActiveRecord, I18N/L10N, caching, authentication dan role-based access control, code generation, testing, dan REST based API framework. Bersama dengan seperangkat dokumentasi dan komunitas pengguna antusias, Yii dapat mengurangi waktu pengembangan Anda secara signifikan dibandingkan dengan framework lainnya.
 
-What's the book about?
-----------------------
+Buku ini Berisi Tentang Apa?
+-----------------------------
 
 This book is for you if you're familiar with Yii 2.0 and building Yii applications plus familiar with the official Yii guide. It covers fundamentally important Yii concepts and dives into subjects that will help you develop even faster, more reliable Yii applications.
 
