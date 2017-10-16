@@ -1,14 +1,14 @@
 Yii 2.0 Community Cookbook
 ==========================
 
-This repository hosts an OpenSource book full of tips and tricks about [Yii 2.0](http://www.yiiframework.com/) PHP framework.
+Repositori ini berisi buku Open Source lengkap berupa tips dan triks tentang [Yii 2.0](http://www.yiiframework.com/) PHP framework.
 
 ![Cover](book/images/cover.jpg)
 
-[Here's the table of contents](https://github.com/samdark/yii2-cookbook/blob/master/book/README.md). We also have a [rendered version at readthedocs](https://yii2-cookbook.readthedocs.org/).
+[Di Sini Daftar Isi](https://github.com/YiiCollection/yii2-cookbook/blob/master/book/README.md). Kami juga memiliki [versi terender di readthedocs](https://yii2-cookbook.readthedocs.org/).
 
-> Note: it's not the same book as [Yii2 Application Development Cookbook - Third Edition](https://www.packtpub.com/web-development/yii2-application-development-cookbook-third-edition) published by PACKT.
+> Catatan: Buku ini tidak sama dengan buku [Yii2 Application Development Cookbook - Third Edition](https://www.packtpub.com/web-development/yii2-application-development-cookbook-third-edition) yang diterbitkan oleh PACKT.
 
-The book is created [by Yii community](https://github.com/samdark/yii2-cookbook/graphs/contributors) and edited by Alexander Makarov ([@samdark](https://github.com/samdark)), a core team member of the framework.
+Buku ini dibuat oleh [Yii community](https://github.com/samdark/yii2-cookbook/graphs/contributors) dan diedit oleh by Alexander Makarov ([@samdark](https://github.com/samdark)), anggota tim inti Yii Framework. 
 
 Feel free to pull request your own writings. I'll review it, provide feedback and merge the best possible way.
