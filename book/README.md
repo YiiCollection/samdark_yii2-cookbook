@@ -6,20 +6,20 @@ Table of Contents
 Unnoticed basics
 ----------------
 
-- How component works
+- Bagaimana component bekerja
 - Events
-- What to choose? Object or Component?
-- Configuring components globally
+- Apa yang dipilih? Object atau Component?
+- Konfigurasi komponen secara global
 
-Logging and error handling
+Logging dan Penanganan Error
 --------------------------
 
-- [Logging: problems and solutions](logging-problems-and-solutions.md)
-- Customizing 404 page
-- Handling errors and exceptions
-- Understanding error stack trace
+- [Logging: problema dan solusi](logging-problems-and-solutions.md)
+- Kustomisasi halaman 404
+- Penanganan error dan exception
+- Memahami error stack trace
 
-Web essentials
+Esensi Web
 --------------
 
 - [URLs with variable number of parameters](urls-variable-number-of-parameters.md)
@@ -30,7 +30,7 @@ Web essentials
 - AJAX???
 - [Handling incoming third party POST requests](incoming-post.md)
 
-SEO essentials
+Esensi SEO
 --------------
 
 - [Enable pretty URLs](enable-pretty-urls.md)
@@ -41,7 +41,7 @@ SEO essentials
 - [Using slugs](using-slugs.md)
 - [Handling trailing slash in URLs](handling-trailing-slash-in-urls.md)
 
-Forms
+Form
 -----
 
 - [Using and customizing captcha](forms-captcha.md)
@@ -49,7 +49,7 @@ Forms
 - [Uploading files](forms-uploading-files.md)
 - [Custom validator for multiple attributes](forms-validator-multiple-attributes.md)
 
-Security
+Keamanan
 --------
 
 - A safe approach to passwords explained
@@ -108,11 +108,11 @@ Performance
 - Necessary production setup
 - Speeding up sessions
 - [Implementing backgroud tasks (cronjobs)](performance-cron.md)
-- [Running Yii on HHVM](performance-hhvm.md)
+- [Menjalankan Yii pada HHVM](performance-hhvm.md)
 - [Caching](caching.md)
 - [Configuring a Yii2 Application for an Autoscaling Stack](scaling.md)
 
-External code
+Kode Eksternal
 -------------
 
 - [Using Yii in third party apps](using-yii-in-third-party-apps.md)
