@@ -1,15 +1,15 @@
 Table of Contents
 =================
 
-- [Preface](preface.md)
+- [Kata Pengantar](preface.md)
 
-Unnoticed basics
+Dasar-dasar yang Tidak Diperhatikan
 ----------------
 
 - Bagaimana component bekerja
-- Events
+- Event
 - Apa yang dipilih? Object atau Component?
-- Konfigurasi komponen secara global
+- Konfigurasi component secara global
 
 Logging dan Penanganan Error
 --------------------------
@@ -52,20 +52,20 @@ Form
 Keamanan
 --------
 
-- A safe approach to passwords explained
+- Pendekatan yang aman untuk menjelaskan password
 - [SQL injection](sql-injection.md)
 - [XSS](xss.md)
 - [RBAC](security-rbac.md)
 - [CSRF](csrf.md)
 
-Structuring and organizing code
+Penataan dan Pengorganisasian Kode
 -------------------------------
 
-- [Backend and frontend via modules](structure-backend-frontend-modules.md)
-- [Asset processing with Grunt](structure-asset-processing-with-grunt.md)
-- Asset processing with Gulp
-- [Using global functions](structure-global-functions.md)
-- [Processing text](processing-text.md)
+- [Backend dan frontend via module](structure-backend-frontend-modules.md)
+- [Pemprosesan Asset dengan Grunt](structure-asset-processing-with-grunt.md)
+- Pemprosesan Asset dengan Gulp
+- [Menggunakan Fungsi Global](structure-global-functions.md)
+- [Pemprosesan Teks](processing-text.md)
 - [Implementing typed collections](structure-collections.md)
 - [MVC](mvc.md)
 - [SOLID](solid.md)
@@ -74,9 +74,9 @@ Structuring and organizing code
 View
 ----
 
-- [Reusing views via partials](reusing-views-via-partials.md)
-- Using blocks
-- Using decorators
+- [Pemakaian ulang view via partial](reusing-views-via-partials.md)
+- Memakai blocks
+- Memakai decorator
 - When to use Widgets and when not to
 - [Switching themes dynamically](switching-themes.md)
 - [Post-processing response](response-post-processing.md)
