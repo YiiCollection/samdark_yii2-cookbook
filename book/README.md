@@ -1,4 +1,4 @@
-Table of Contents
+Daftar Isi
 =================
 
 - [Kata Pengantar](preface.md)
